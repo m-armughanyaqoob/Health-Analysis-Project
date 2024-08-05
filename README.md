@@ -45,8 +45,6 @@ The following files are included in this repository:
 2. **Health Analysis.pdf**  
    This PDF document presents a comprehensive analysis of the health indicators and their impact on diabetes prevalence.
 
-3. **Obesity and Diabetes Report.doc**  
-   This Word document provides a detailed report on the findings, including visualizations and insights drawn from the data.
 
 ## Final Remarks
 
